@@ -1,29 +1,8 @@
-body {
-  background-color:#82FA58
-  }
-
 p {
-  color:#4A235A 
+  color:red
 }
-h1 {
-  color:#2471A3 
-}
-
-.destacado{
-  font-family:"Arial";
-  font-style:italic;
-  color:#0B0B3B;
-  text-align:center;
-  font-size: 50px
-}
-
-.segundo{
-  font:Arial;
-  font-style:italic;
-  color:#DF013A;
-  text-align:center;
-  font-size: 40px
+  
     
-  
-  
-}
+  body {color:#A569BD}
+background {color:#82E0AA}
+
